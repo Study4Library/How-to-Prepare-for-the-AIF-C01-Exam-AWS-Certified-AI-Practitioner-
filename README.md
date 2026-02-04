@@ -41,24 +41,6 @@ Common AI use cases like chatbots, recommendation systems, and image recognition
 
 Focus on concept clarity, not implementation.
 
-## Study AWS AI and ML Services
-
-A big part of the AIP-C01 exam is knowing which AWS service fits which use case.
-
-Important services to study:
-
-Amazon Bedrock – for generative AI and foundation models
-
-Amazon SageMaker – for building, training, and deploying ML models
-
-Amazon Rekognition – image and video analysis
-
-Amazon Comprehend – natural language processing
-
-Amazon Lex & Polly – chatbots and text-to-speech
-
-Understand what each service does, not how to code it.
-
 ## Use AWS Official Learning Resources
 
 AWS provides free and paid resources that are highly aligned with the exam.
@@ -83,7 +65,7 @@ Identify weak areas
 
 Improve time management
 
-Try to practice questions that are scenario-based, as the exam often asks which solution best fits a given business problem.
+Try to practice questions that are scenario-based, as the exam often asks which solution best fits a given business problem.I recommend every candidate must use **[Practice questions](https://www.certifiedumps.com/amazon/aip-c01-questions.html)** designed by Certfiedumps before taking the final exam. This practice questions will help you understand key concepts.
 
 ## Focus on Responsible AI and Security
 
